@@ -16,7 +16,7 @@ Las partículas se juntaron para formar el primer átomo, el más simple posible
     <figcaption>Fig 1: átomo de hidrógeno</figcaption>
 </figure>
 <figure>
-    <img src='http://astronomia.net/cosmologia/evolution.gif' />
+    <img src='public/nebula.gif' />
     <figcaption>Fig 2: De nébulas a estrellas</figcaption>
 </figure>
 
