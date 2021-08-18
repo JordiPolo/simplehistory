@@ -1,3 +1,4 @@
+title: Una historia simple del mundo
 remote_theme: poole/lanyon@v1.1.0
 plugins:
 - jekyll-remote-theme
