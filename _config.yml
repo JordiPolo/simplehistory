@@ -1,3 +1,4 @@
-remote_theme: jekyll-theme-hydejack
+remote_theme: hydecorp/hydejack@v9.1.4
 plugins:
-- jekyll-remote-theme 
+- jekyll-remote-theme
+- jekyll-include-cache
