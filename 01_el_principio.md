@@ -8,8 +8,8 @@ De repente, Big-Bang!
 El punto empezó a crecer rápidamente y al crecer creó espacio y tiempo. La energía dentro del punto se expandió en todo este nuevo espacio.
 
 Al expandirse la energía estaba menos concentrada y consiguió dividirse en trozos independientes que llamamos partículas.
-Algunas partículas tenían masa siguiendo la ecuación de Einstein:  E=MC<sup>2</sup>.  
-Las partículas se juntaron para formar el primer átomo, el más simple posible, llamado hidrógeno. 
+Algunas partículas convirtieron su energía en masa siguiendo la ecuación de Einstein:  E=MC<sup>2</sup>.  
+Estas partículas se juntaron para formar el primer átomo, el más simple posible, llamado hidrógeno. 
 <figure>
     <img src="https://lh4.googleusercontent.com/mXmOVp2yacibMZpjERlAK6ZNU9kun2Y8umJnRmZeK1IHtZREQomGnpt1ztZoN-ih1uHx7K8IMfBwz7RuswjuWcpGeXuhdSe_sfzsOPgdA7tCpSYo9JKOdICCUndmJMkZ6n4XpYkv" width="200" height="200" />
     <figcaption>Fig 1: átomo de hidrógeno</figcaption>
