@@ -1,8 +1,5 @@
-remote_theme: hydecorp/hydejack@v9.1.4
+remote_theme: poole/lanyon@v1.1.0
 plugins:
 - jekyll-remote-theme
 - jekyll-include-cache
 
-menu:
-  - title: De cero a sapiens
-    url:   /
