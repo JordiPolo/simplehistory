@@ -3,6 +3,7 @@ layout: default
 title: Indice
 ---
 
-Capitulos:
+**De Cero a Sapiens**
 
-- [De cero a sapiens](01.md)
+- 1. [El principio](01_el_principio.md)
+- 2. Vida y extinciones
