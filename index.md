@@ -1,4 +1,3 @@
-# Una historia simple del mundo
 ## De cero a sapiens
 
 ### El principio
