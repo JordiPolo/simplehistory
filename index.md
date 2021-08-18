@@ -5,4 +5,4 @@ title: Indice
 
 Capitulos:
 
-- [De cero a sapiens]({% link simplehistory/01.md %})
+- [De cero a sapiens]({% link /01.md %})
