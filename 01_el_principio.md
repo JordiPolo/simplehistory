@@ -28,6 +28,10 @@ La energía que se escapa de las estrellas la vemos como luz y también la senti
 Las estrellas viven en un equilibrio entre gravedad y las explosiones de las fusiones. Cuando no pueden fusionar más átomos colapsan y a veces explotan en supernovas. Una supernova dispersa todos los materiales de una estrella como polvo y gas por el universo. Pero la gravedad vuelve a acumular este material creando una nueva generación de estrellas y también planetas.
 
 Así es como se creó nuestro sistema solar. Una o varias estrellas explotaron por nuestra región del espacio. El hidrógeno se volvió a acumular y creó una nueva estrella: el sol. Pero el sol no absorbió todos los materiales de esta region, algunos se movían demasiado rápido en otras órbitas, y en cada órbita se creó un planeta. 
+<figure>
+<img src="https://www.phy.olemiss.edu/~luca/astr/Topics-Solar/Images/Summary_354x394.jpg" width="250" />
+    <figcaption>Fig 3: Creación del sistema solar</figcaption>
+</figure>
 
 Así se creó la tierra también. Los materiales en esta órbita se acumularon en piedras pequeñas, estas piedras se juntaron en una piedra grande, que llamamos tierra, donde continuamente impactaban asteroides. Incluyendo el impacto de un asteroide gigante que lanzó tanto material y tan rápido fuera de la tierra que aún sigue allí. Lo puedes ver casi todas las noches, a este material le llamamos luna. 
 
