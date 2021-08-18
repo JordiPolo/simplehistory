@@ -10,7 +10,17 @@ El punto empezó a crecer rápidamente y al crecer creó espacio y tiempo. La en
 Al expandirse la energía estaba menos concentrada y consiguió dividirse en trozos independientes que llamamos partículas.
 Algunas partículas tenían masa siguiendo la ecuación de Einstein:  E=MC<sup>2</sup>.
 
-Las partículas se juntaron para formar el primer átomo, el más simple posible, llamado hidrógeno. Con el tiempo el universo se estaba llenando de átomos de hidrógeno, estos creaban nubes en el espacio.
+Las partículas se juntaron para formar el primer átomo, el más simple posible, llamado hidrógeno. Con el tiempo el universo se estaba llenando de átomos de hidrógeno, estos creaban nubes en el espacio. Las nubes en el espacio se llaman nébulas.
+<figure>
+    <img src="https://lh4.googleusercontent.com/mXmOVp2yacibMZpjERlAK6ZNU9kun2Y8umJnRmZeK1IHtZREQomGnpt1ztZoN-ih1uHx7K8IMfBwz7RuswjuWcpGeXuhdSe_sfzsOPgdA7tCpSYo9JKOdICCUndmJMkZ6n4XpYkv" width="200" height="200" />
+    <figcaption>Fig 1: átomo de hidrógeno</figcaption>
+</figure>
+<figure>
+    <img src='http://astronomia.net/cosmologia/evolution.gif' />
+    <figcaption>Fig 2: De nébulas a estrellas</figcaption>
+</figure>
+
+<span>
 
 La fuerza de la gravedad atrajo estos átomos entre ellos y las nubes se concentraron en pelotas esféricas. En estas pelotas, la gravedad era tan fuerte que los átomos se empujaban los unos contra los otros tanto que se fusionaban. La fusión de varios átomos ligeros crea… un átomo más pesado y mucha energía que se emite al espacio. Estas pelotas que emiten energía son las estrellas.
 
