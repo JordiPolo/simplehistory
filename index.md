@@ -3,4 +3,6 @@ layout: default
 title: Indice
 ---
 
-[De cero a sapiens]({% link 01.md %})
+Capitulos:
+
+- [De cero a sapiens]({% link simplehistory/01.md %})
