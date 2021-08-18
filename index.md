@@ -1,9 +1,8 @@
 ## De cero a sapiens
 
 ### El principio
-El universo que conocemos era al principio un punto minúsculo. No existía ni el espacio ni el tiempo.  
-Toda la energía que existe ahora estaba concentrada dentro de este punto.  
-De repente, Big-Bang! 
+Dentro estaba todo el espacio, tiempo y energía concentrados.    
+De repente, Big-Bang!   
 A pesar de su nombre, el Big-Bang no fue una explosión, sino que el punto creció muy rápido. Al crecer creó espacio y la energía que tenía dentro concentrada se expandió en todo este nuevo espacio.
 
 Al expandirse la energía estaba cada vez menos concentrada, el espacio empezó a separar alguna energía de otra energía lo suficiente como para que la energía se diferenciarse en forma de masa.
