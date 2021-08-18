@@ -15,15 +15,14 @@ Las partículas se juntaron para formar el primer átomo, el más simple posible
     <img src="https://lh4.googleusercontent.com/mXmOVp2yacibMZpjERlAK6ZNU9kun2Y8umJnRmZeK1IHtZREQomGnpt1ztZoN-ih1uHx7K8IMfBwz7RuswjuWcpGeXuhdSe_sfzsOPgdA7tCpSYo9JKOdICCUndmJMkZ6n4XpYkv" width="200" height="200" />
     <figcaption>Fig 1: átomo de hidrógeno</figcaption>
 </figure>
+
+
+La fuerza de la gravedad atrajo estos átomos entre ellos y las nubes se concentraron en pelotas esféricas. En estas pelotas, la gravedad era tan fuerte que los átomos se empujaban los unos contra los otros tanto que se fusionaban. La fusión de varios átomos ligeros crea… un átomo más pesado y mucha energía que se emite al espacio. Estas pelotas que emiten energía son las estrellas.
+
 <figure>
     <img src='public/nebula.gif' />
     <figcaption>Fig 2: De nébulas a estrellas</figcaption>
 </figure>
-
-<span>
-
-La fuerza de la gravedad atrajo estos átomos entre ellos y las nubes se concentraron en pelotas esféricas. En estas pelotas, la gravedad era tan fuerte que los átomos se empujaban los unos contra los otros tanto que se fusionaban. La fusión de varios átomos ligeros crea… un átomo más pesado y mucha energía que se emite al espacio. Estas pelotas que emiten energía son las estrellas.
-
 
 La energía que se escapa de las explosiones en las estrellas la vemos como luz y también la sentimos como el calor de nuestra estrella más cercana, el sol. Las estrellas sobre todo fusionan hidrógeno en helio, pero también fusionan muchas otras cosas. Dentro de una estrella se crea carbono, oxígeno, hierro y otros materiales ahora comunes en la tierra. 
 
