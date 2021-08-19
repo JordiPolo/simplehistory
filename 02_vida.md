@@ -3,11 +3,12 @@ layout: page
 title: Vida en la tierra
 ---
 
-Cuando dejaron de caer asteroides en la tierra tan a menudo, la tierra se enfrió lo suficiente como para que apareciera un material muy interesante en su superficie: ¡agua líquida! La tierra tenía tanta agua que estaba prácticamente cubierta por un gran océano.
+Un tiempo después de su formación, la tierra se enfrió lo suficiente como para que apareciera un material muy interesante en su superficie: ¡agua líquida! La tierra tenía tanta agua que estaba prácticamente cubierta por un gran océano. Este océano estaba en constante movimiento por la atracción de la luna.
 
-Muchos materiales se disuelven en agua y cuando el agua se mueve, se lleva a estos materiales de zona a zona. Cuando una serie de materiales son compatibles químicamente con otros se unen en compuestos más complejos. Después de millones de años de mezclas, en el océano existían todo tipo de compuestos complejos interesantes.
+El agua puede disolver muchos materiales y transportarlos con ella cuando se mueve. Estos materiales se unen a otros materiales compatibles para hacer compuestos más complejos. Después de millones de años de mezclas, en el océano existían todo tipo de compuestos muy complejos.
 
-Un compuesto llamado ARN, dependiendo del ambiente podía plegarse en formas complejas y atrapar más materiales para hacerse más largo o duplicarse. Otro compuesto llamado lípido tenia dos caras, una ama el agua, la otra la odia. Los Lípidos se organizan como pelotas, dejando agua dentro y fuera para el lado que ama el agua y con una membrana entre estos dos entornos para el lado que odia el agua.
+Un compuesto llamado ARN, dependiendo del ambiente podía plegarse de distintas formas y atrapar más materiales para duplicarse a sí mismo. Otro compuesto llamado lípido tenia dos caras, una cara que ama el agua, la otra odia el agua. Los Lípidos se organizan como pelotas, dejando agua dentro y fuera para el lado que ama el agua y con una membrana entre estos dos entornos sin agua para el lado que odia el agua.
+
 
 <figure>
     <img src="https://open.oregonstate.education/app/uploads/sites/48/2019/07/phospholipid1-1024x669.png" width="300" />
