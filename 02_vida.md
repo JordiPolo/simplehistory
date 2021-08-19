@@ -10,7 +10,7 @@ Muchos materiales se disuelven en agua y cuando el agua se mueve, se lleva a est
 Un compuesto llamado ARN, dependiendo del ambiente podía plegarse en formas complejas y atrapar más materiales para hacerse más largo o duplicarse. Otro compuesto llamado lípido tenia dos caras, una ama el agua, la otra la odia. Los Lípidos se organizan como pelotas, dejando agua dentro y fuera para el lado que ama el agua y con una membrana entre estos dos entornos para el lado que odia el agua.
 
 <figure>
-    <img src="https://open.oregonstate.education/app/uploads/sites/48/2019/07/phospholipid1-1024x669.png" width="200" height="200" />
+    <img src="https://open.oregonstate.education/app/uploads/sites/48/2019/07/phospholipid1-1024x669.png" width="300" />
     <figcaption>Fig 1: Membrana de lípidos</figcaption>
 </figure>
 
