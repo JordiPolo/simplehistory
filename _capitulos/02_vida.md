@@ -20,9 +20,16 @@ Después de trillones de combinaciones aleatorias de elementos y compuestos, una
 
 El ARN no copia demasiado bien, así que aparecían defectos en las copias. A veces los defectos eran fatales pero a veces la copia era más estable que el original y sobrevivía más. A menudo un componente nuevo se unía a la membrana o entraba en su interior. Si esta unión ayudaba a la célula a resistir más tiempo en este ambiente, la célula creaba más copias porque sobrevivía más. 
 
-El ambiente elimina las células más débiles y permite reproducirse a las más fuertes. Cada generación era mejor y más compleja que la anterior. Como los cambios ocurrían en muchas células a la vez, algunas contenían unos compuestos mientras otras contenían otros compuestos totalmente distintos.
+Cada generación era mejor y más compleja que la anterior. Como los cambios ocurrían en muchas células a la vez, algunas contenían unos compuestos mientras otras contenían otros compuestos totalmente distintos. Y así cada célula hacía cosas distitas. Algunas podían usar la luz del sol otras podían comerse otras células. Algunas empezaron a liberar oxígeno cambiando la atmósfera. En casi todas el ADN sustituyo al ARN en la funcion de hacer copias y el ARN hizo otras funciones. Tenemos las primeras bacterias.
 
-Algunas células empezaron a usar la luz del sol para generar energía. Otras empezaron a desarmar otras células para usarlas como componentes de sus copias. Otras empezaron a liberar oxígeno mientras que otras empezaron a consumirlo. A la vez el ARN se transformó en ADN y los aminoácidos se convirtieron en los componentes de proteínas. Tenemos las primeras bacterias.
+En algún momento una bacteria grande que no podía tratar oxígeno comió a otras que sí. La bacteria externa se encargaba de encontrar material y la interna de convertirlo en energía. Con copias la interna perdió algo de su material genético y se convirtio en nuestras mitocondrias. Otras bacterias fueron más lejos y comieron una bacteria que podía tratar la luz del sol. 
+<figure>
+    <img src="https://www.gesundheitsindustrie-bw.de/application/files/cache/thumbnails/b7bccca17da67ed2733b0081cc465bf1.jpg" width="500" />
+    <figcaption>Fig 2: Bacterias uniendose para hacer celulas más complejas</figcaption>
+</figure>
 
-En algún momento una célula grande que no podía tratar oxígeno comió a otras que sí. Esta bacteria con otras bacterias dentro tenía una gran ventaja energética. Las bacterias interiores solo se tenía que preocupar de crear energía. Esto en nuestras células se llama mitocondrias y aún mantiene su ADN de bacteria. Esta célula se copió mucho y empezó a unirse en grupos, creando vida multicelular. 
+
+Ambos tipos de bacterias tenían una gran ventaja energética y se copiaron tanto que empezaron a reunirse en grupos, creando vida multicelular. 
+
+
 
