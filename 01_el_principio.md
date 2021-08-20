@@ -36,6 +36,9 @@ Así es como se creó nuestro sistema solar. Una o varias estrellas explotaron p
 Así se creó la tierra también. Los materiales en esta órbita se acumularon en piedras pequeñas, estas piedras se juntaron en una piedra grande, que llamamos tierra, donde continuamente impactaban asteroides. Incluyendo el impacto de un asteroide gigante que lanzó tanto material y tan rápido fuera de la tierra que aún sigue allí. Lo puedes ver casi todas las noches, a este material le llamamos luna. 
 
 
+
+
+{% link {{ page.next }} %}
 [Indice](index.html)
 
 
