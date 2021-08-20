@@ -25,9 +25,9 @@ La fuerza de la gravedad atrajo los átomos entre ellos y las nébulas se concen
 
 La energía que se escapa de las estrellas la vemos como luz y también la sentimos como el calor de nuestra estrella más cercana, el sol. Las estrellas sobre todo fusionan hidrógeno en helio, pero también fusionan muchas otras cosas. Dentro de una estrella se crea carbono, oxígeno, hierro y otros materiales ahora comunes en la tierra. 
 
-Las estrellas viven en un equilibrio entre gravedad y las explosiones de las fusiones. Cuando no pueden fusionar más átomos colapsan y a veces explotan en supernovas. Una supernova dispersa todos los materiales de una estrella como polvo y gas por el universo. Pero la gravedad vuelve a acumular este material creando una nueva generación de estrellas y también planetas.
+Las estrellas viven en un equilibrio entre gravedad y las explosiones de las fusiones. Cuando no pueden fusionar más átomos colapsan y a veces explotan en supernovas. Una explosión supernova dispersa todos los materiales de una estrella en forma de polvo y gas por el universo. Pero la gravedad vuelve a acumular este material creando una nueva generación de estrellas y también planetas.
 
-Así es como se creó nuestro sistema solar. Una o varias estrellas explotaron por nuestra región del espacio. El hidrógeno se volvió a acumular y creó una nueva estrella: el sol. Pero el sol no absorbió todos los materiales de esta region, algunos se movían demasiado rápido en otras órbitas, y en cada órbita se creó un planeta. 
+Así es como se creó nuestro sistema solar. Una o varias estrellas explotaron por nuestra región del espacio. Los materiales se volvieron a acumular y la mayoría se juntaron para crear una nueva estrella: el sol. Pero el sol no absorbió todos los materiales de esta region, algunos se movían demasiado rápido en otras órbitas, y en cada órbita se creó un planeta. 
 <figure>
 <img src="https://www.phy.olemiss.edu/~luca/astr/Topics-Solar/Images/Summary_354x394.jpg" width="250" />
     <figcaption>Fig 3: Creación del sistema solar</figcaption>
