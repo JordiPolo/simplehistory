@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Vida en la tierra
-dates: -4.100.000.000 a -2.200.000.000
+title: Vida celular
+dates: -4.100.000.000 a -1.700.000.000
 category: cero
 ---
 
@@ -24,5 +24,5 @@ El ambiente elimina las células más débiles y permite reproducirse a las más
 
 Algunas células empezaron a usar la luz del sol para generar energía. Otras empezaron a desarmar otras células para usarlas como componentes de sus copias. Otras empezaron a liberar oxígeno mientras que otras empezaron a consumirlo. A la vez el ARN se transformó en ADN y los aminoácidos se convirtieron en los componentes de proteínas. Tenemos las primeras bacterias.
 
-En algún momento una célula grande que no podía tratar oxígeno comió a una que sí. Esta bacteria con otra bacteria dentro tenía una gran ventaja energética. La bacteria interior solo se tenía que preocupar de crear energía. Esto en nuestras células se llama mitocondrias y aún mantiene su ADN de bacteria. Esta célula se copió mucho y empezó a unirse en grupos, creando vida multicelular. 
+En algún momento una célula grande que no podía tratar oxígeno comió a otras que sí. Esta bacteria con otras bacterias dentro tenía una gran ventaja energética. Las bacterias interiores solo se tenía que preocupar de crear energía. Esto en nuestras células se llama mitocondrias y aún mantiene su ADN de bacteria. Esta célula se copió mucho y empezó a unirse en grupos, creando vida multicelular. 
 
