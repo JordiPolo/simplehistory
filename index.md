@@ -6,4 +6,4 @@ title: Indice
 **De Cero a Sapiens**
 
 {% assign p = site.capitulos[0] %}
-*  1.- [{{p.title}}]({{p.url}}) ({{ p.dates }})
+*  1.- [{{p.title}}]({% link {{p.url}} %}) ({{ p.dates }})
