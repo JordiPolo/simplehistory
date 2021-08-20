@@ -1,14 +1,15 @@
 ---
 layout: page
 title: Vida en la tierra
+dates: -4.100.000.000 a -2.200.000.000
+category: cero
 ---
 
-Un tiempo después de su formación, la tierra se enfrió lo suficiente como para que apareciera un material muy interesante en su superficie: ¡agua líquida! La tierra tenía tanta agua que estaba prácticamente cubierta por un gran océano. Este océano estaba en constante movimiento por la atracción de la luna.
+Un tiempo después de su formación, la tierra se enfrió lo suficiente para que su agua se acumulara en su superficie en estado líquido. La tierra estaba prácticamente cubierta por un gran océano en constante movimiento por la atracción de la luna.
 
-El agua puede disolver muchos materiales y transportarlos con ella cuando se mueve. Estos materiales se unen a otros materiales compatibles para hacer compuestos más complejos. Después de millones de años de mezclas, en el océano existían todo tipo de compuestos muy complejos.
+El agua puede disolver muchos elementos químicos y transportarlos con ella cuando se mueve. Estos elementos se unen a otros elementos compatibles para hacer compuestos más complejos. Después de millones de años de mezclas, en el océano existían todo tipo de compuestos muy complejos.
 
-Un compuesto llamado ARN, dependiendo del ambiente podía plegarse de distintas formas y atrapar más materiales para duplicarse a sí mismo. Otro compuesto llamado lípido tenia dos caras, una cara que ama el agua, la otra odia el agua. Los Lípidos se organizan como pelotas, dejando agua dentro y fuera para el lado que ama el agua y con una membrana entre estos dos entornos sin agua para el lado que odia el agua.
-
+Un compuesto llamado ARN era capaz de plegarse sobre sí mismo para actuar de formas distintas y de atrapar elementos para crear una copia de sí mismo. Otro compuesto llamado lípido tenía dos caras, una cara que ama el agua, la otra odia el agua. Los lípidos forman pelotas con una membrana gruesa. Dentro de la membrana no hay agua y allí se coloca el lado que odia el agua. Dentro y fuera de la pelota hay agua para el lado que ama el agua.
 
 <figure>
     <img src="https://open.oregonstate.education/app/uploads/sites/48/2019/07/phospholipid1-1024x669.png" width="300" />

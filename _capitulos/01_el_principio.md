@@ -1,6 +1,8 @@
 ---
 layout: page
 title: El principio
+dates: -13.770.000.000 a -4.500.000.000
+category: cero
 ---
 
 En el principio el universo que conocemos era un punto minúsculo. Dentro estaban concentrados todo el espacio, tiempo y energía.     
@@ -34,11 +36,5 @@ Así es como se creó nuestro sistema solar. Una o varias estrellas explotaron p
 </figure>
 
 Así se creó la tierra también. Los materiales en esta órbita se acumularon en piedras pequeñas, estas piedras se juntaron en una piedra grande, que llamamos tierra, donde continuamente impactaban asteroides. Incluyendo el impacto de un asteroide gigante que lanzó tanto material y tan rápido fuera de la tierra que aún sigue allí. Lo puedes ver casi todas las noches, a este material le llamamos luna. 
-
-
-
-
-{% link {{ page.next }} %}
-[Indice](index.html)
 
 
