@@ -26,7 +26,7 @@ Algunos peces aprendieron a esconderse en las zonas menos profundas del océano 
 
 Pronto algunos aprendieron a respirar fuera del agua, aunque necesitaban huevos para sus hijos, y agua para sus ojos. Nuevas mutaciones crean huevos con cáscara dura que podían ponerse fuera del mar. Párpados y pestañear, que nosotros aún tenemos, mantienen el ojo húmedo, como en el mar.
 
-Sabemos todo esto en detalle porque hemos comparado el ADN de todos estos animales y vemos que los cambios en el ADN se puede organizar en un árbol. Que coincide con cómo los animales han evolucionado en el tiempo. A este árbol le llamamos el árbol de la vida. 
+Sabemos todo esto en detalle porque hemos comparado el ADN de todos estos animales y plantas. Vemos que los cambios en el ADN se puede organizar en forma de árbol. Que coincide con cómo los animales han evolucionado en el tiempo. A este árbol le llamamos el árbol de la vida. 
 
 <figure>
     <img src="https://i.pinimg.com/736x/54/a2/a4/54a2a4647bf11e172809b97bc423d4f0--year--tree-of-life.jpg" width="300" />
@@ -34,4 +34,4 @@ Sabemos todo esto en detalle porque hemos comparado el ADN de todos estos animal
 </figure>
 
 
-Pronto los animales y las plantas habían conquistado el mar y la tierra. Los más grandes se llamaban los dinosaurios.
+Pronto los animales y las plantas habían conquistado el mar y la tierra.
