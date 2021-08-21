@@ -1,20 +1,21 @@
 ---
 layout: page
 title: El árbol de la vida
-dates: -1.700.000.000 a -240.000.000
+dates: -1.700.000.000 a -250.000.000
 category: cero
 ---
 
-Hasta ahora las células se habían diversificado mucho pero es cuando empiezan a reunirse en grupos multicelulares que las posibilidades son infinitas. Estas posibilidades están dirigidas por el ambiente. Este proceso se llama evolución por selección natural.   
+Como hemos visto, las células pueden variar cuando crean una copia, y dependiendo del ambiente unas copias viviran más que otras. Estas variaciones se llaman mutaciones y las copias se llaman descendientes.  
+Este proceso donde los descendientes que se adaptan mejor al ambiente acumulan cambios pequeños hasta hacer un cambio grande se llama evolución por selección natural. Para que este proceso funcione se necesitan las mutaciones, muchas generaciones y un ambiente donde solo algunos individuos puedan sobrevivir.
 
-Las copias de los organismos, sus descendientes, tienen fallos, los llamamos mutaciones. Estas mutaciones pueden ayudar o no. Si no ayudan los descendientes morirán pronto y no tendrán más descendientes. Si ayudan tendrán muchos descendientes, cada uno con esa nueva mutación. 
+Por ejemplo, las primeras plantas aparecieron en el agua, como las algas actuales y de alli migraron a la tierra. Eso es un gran cambio, no puede ocurrir de repente pero sí puede ocurrir cuando se acumulan muchos cambios pequeños.  
+Imaginemos en una zona del mar hay unas algas, parecidas pero con mutaciones distintas. Un día una corriente del mar lleva a algunas a una playa donde cuando la marea es baja las algas están fuera del agua 10 minutos al día. En este nuevo ambiente muchas moriran.  
+Pero si alguna tiene una mutación que la hace por ejemplo más resistente al sol, sobrevivira y sus semillas creceran alrededor suya donde ya no existen las otras algas que no pudieron sobrevivir. Ahora todas las plantas ahí heredan una pequeña resistencia al sol.  
+Algunas semillas caeran en una zona de la playa con todavía menos agua y mas tiempo al sol. Casi siempre las algas allí morirán pero despues de muchas generaciones, una de estas plantas sobrevivirá 1 hora al día sin agua. Sus descendientes conquistarán una nueva zona de playa, la de 1 hora al dia al sol y sus semillas caerán donde hay todavía menos agua. Y así poco a poco estas nuevas plantas conquistarán la playa y luego el resto de la tierra.  
 
-Por ejemplo en una zona del mar hay unas algas. Aunque son parecidas, cada una tiene unas mutaciones distintas. Una corriente del mar lleva a algunas a una playa donde cuando la marea baja, durante 1 hora al día las algas están fuera del agua. Muchas morirán pero si alguna puede sobrevivir, su mutación permitirá que sus descendientes se multiplicarán en este entorno. Nuevas mutaciones les harán más fuertes hasta que no necesitarán el agua del océano y colonizarán la tierra.
+Los primeros animales eran muy simples, como esponjas de mar, no se movían por sí mismos, el mar les movía y traía alimentos a ellos. La presión por encontrar comida y las mutaciones permitieron que aparecieran animales que se movían.
 
-Los primeros animales eran muy simples, como esponjas de mar, no se movían por sí mismos, el mar les movía y traía alimentos a ellos. Pero los que conseguían moverse un poco tenían cierta ventaja. Pronto los animales se movían buscando comida.
-
-Para encontrar comida los animales necesitaban sentidos, por ejemplo un sensor de luz es muy útil para saber si algo se mueve cerca o si estás cerca de la superficie del océano o no. Pronto los animales evolucionaron ojos. Para protegerse los animales adquirieron cáscaras. Para moverse, esqueletos. Ambos construidos del material del fondo marino.
-
+Para encontrar comida los animales necesitaban sentidos, por ejemplo un sensor de luz es muy útil para saber si algo se mueve cerca o si estás cerca de la superficie del océano o no. Sensores de luz primitivos evolucionaron a ojos en peces. Para protegerse los animales adquirieron cáscaras. Para moverse, esqueletos. Ambos construidos del material del fondo marino.
 
 Algunos peces aprendieron a esconderse en las zonas menos profundas del océano donde depredadores más grandes no les podían encontrar. Allí los que conseguían moverse mejor tenían una ventaja, también los que podían sobrevivir fuera del agua por un pequeño periodo de tiempo. Así los peces crecieron piernas.
 
