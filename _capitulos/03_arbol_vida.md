@@ -11,6 +11,13 @@ Este proceso donde los descendientes que se adaptan mejor al ambiente acumulan c
 Por ejemplo, las primeras plantas aparecieron en el agua, como las algas actuales y de alli migraron a la tierra. Eso es un gran cambio, no puede ocurrir de repente pero sí puede ocurrir cuando se acumulan muchos cambios pequeños.  
 Imaginemos en una zona del mar hay unas algas, parecidas pero con mutaciones distintas. Un día una corriente del mar lleva a algunas a una playa donde cuando la marea es baja las algas están fuera del agua 10 minutos al día. En este nuevo ambiente muchas moriran.  
 Pero si alguna tiene una mutación que la hace por ejemplo más resistente al sol, sobrevivira y sus semillas creceran alrededor suya donde ya no existen las otras algas que no pudieron sobrevivir. Ahora todas las plantas ahí heredan una pequeña resistencia al sol.  
+
+<figure>
+    <img src="https://static01.nyt.com/images/2019/11/19/science/14SCI-MATTER-PLANTS1/14SCI-MATTER-PLANTS1-superJumbo.jpg?quality=90&auto=webp" width="300" />
+    <figcaption>Fig 1: Raices en el mar y cuerpo fuera del mar, posible paso intermedio</figcaption>
+</figure>
+
+
 Algunas semillas caeran en una zona de la playa con todavía menos agua y mas tiempo al sol. Casi siempre las algas allí morirán pero despues de muchas generaciones, una de estas plantas sobrevivirá 1 hora al día sin agua. Sus descendientes conquistarán una nueva zona de playa, la de 1 hora al dia al sol y sus semillas caerán donde hay todavía menos agua. Y así poco a poco estas nuevas plantas conquistarán la playa y luego el resto de la tierra.  
 
 Los primeros animales eran muy simples, como esponjas de mar, no se movían por sí mismos, el mar les movía y traía alimentos a ellos. La presión por encontrar comida y las mutaciones permitieron que aparecieran animales que se movían.
@@ -21,7 +28,7 @@ Algunos peces aprendieron a esconderse en las zonas menos profundas del océano 
 
 <figure>
     <img src="https://wfdd-live.s3.amazonaws.com/styles/story-full/s3/images/story/comparison_0.gif?itok=AU0Wn1da" width="300" />
-    <figcaption>Fig 1: De pez a reptil</figcaption>
+    <figcaption>Fig 2: De pez a reptil</figcaption>
 </figure>
 
 
