@@ -21,10 +21,12 @@ Los mamíferos sobrevivieron porque pudieron esconderse bajo tierra y luego al s
 
 Los mamíferos eran los nuevos reyes del ecosistema, aparecieron tigres, leones, lobos, incluso un mamífero volvió de la tierra al mar y se convirtió en las ballenas.
 
-Entre esta variedad se encontraban los primates. De esta rama aparecen primero los monos más pequeños, luego los orangutanes, los gorilas, los chimpancés y finalmente nosotros, los homo.
+Entre esta variedad se encontraban los primates. Los primates subieron a los árboles para llegar a la fruta y frutos secos antes que sus competidores.
 
 <figure>
     <img src="http://conservenature.org/learn_about_wildlife/chimpanzees/taxonomy/great-apes1.jpg" width="300" />
     <figcaption>Fig 2: Las ramas del árbol más relacionadas con nosotros</figcaption>
 </figure>
 
+De los primates  aparecen primero los monos más pequeños, luego los orangutanes, los gorilas, los chimpancés y finalmente nosotros, los homo.
+Movimientos tectónicos crearon montañas que pararon la llegada de lluvía. Con la falta de agua, lo que una vez fueron junglas se convirtieron en bosques y luego sabanas.  Los homos estuvieron obligados a bajar de los árboles para sobrevivir.
